@@ -1,10 +1,15 @@
 # Catalogo de producto 
 
-`tarjeta 2.html`
+`tarjeta 2.html` Es la estructura principal de la página. Define el título (Ejercicio de tarjeta Gamalier), el encabezado (Catalogo De Productos), el contenedor de las tarjetas y cada producto con su imagen, nombre, descripcion, precio y botón Agregar al carrito.   
 
-`Tarjeta2.css`
+`Tarjeta2.css` Le da estilo y color a tarjeta 2.html (fondo, diseño en dos columnas, bordes de las tarjetas, tamaño de fotos y botón).
 
-`cdfdf.avif`
+
+
+# Imagenes
+
+
+`cdfdf.avif` 
 
 `coco.webp`
 
