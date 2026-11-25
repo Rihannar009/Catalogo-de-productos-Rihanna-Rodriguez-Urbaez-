@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(220, 132, 132);
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.titulo {
+  text-align: center;
+  color: black;
+}
+
+
+.contenedor-productos {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  max-width: 850px;
+  margin: 20px auto;
+}
+
+
+.tarjeta {
+  background-color: #e6a88a;
+  border: 3px solid black;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.tarjeta img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
