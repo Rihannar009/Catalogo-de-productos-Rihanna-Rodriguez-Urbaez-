@@ -16,3 +16,6 @@
 `hombre.jpg`
 
 `kdd.webp`
+
+
+<img width="1457" height="881" alt="image" src="https://github.com/user-attachments/assets/261d2640-7d17-4d7c-bcc9-225f8b480a60" />
